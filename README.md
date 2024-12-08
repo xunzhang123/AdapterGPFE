@@ -5,10 +5,10 @@
 
 
 # 1. Preparations
-python                3.9.18
-torch                 1.13.0
-cuda                  11.3
 
+`python                3.9.18`
+`torch                 1.13.0`
+`cuda                  11.3`
 
 
 # 2. Running experiments
