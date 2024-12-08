@@ -12,7 +12,7 @@
 
 
 # 2. Running experiments
-python finetune.py
+`python finetune.py`
 
 
 
